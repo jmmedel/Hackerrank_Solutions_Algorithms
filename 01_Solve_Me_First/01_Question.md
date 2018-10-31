@@ -1,4 +1,3 @@
-
 Complete the function solveMeFirst to compute the sum of two integers.
 
 Function prototype:
@@ -21,4 +20,4 @@ Sample Output
 5
 Explanation
 
-The sum of the two integers a  and  b is computed  2 + 3 = 5 as: .
+The sum of the two integers a and b is computed as: 2 + 3 = 5 .
